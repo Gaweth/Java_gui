@@ -17,7 +17,7 @@ public class Main {
        label.setVerticalAlignment(JLabel.TOP);
        label.setHorizontalAlignment(JLabel.RIGHT);
        label.setBounds(0,0,75,75);
-       
+
 
 
 
