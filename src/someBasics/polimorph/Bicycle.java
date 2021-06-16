@@ -1,0 +1,8 @@
+package someBasics.polimorph;
+
+public class Bicycle extends Vehicle{
+
+    public void go(){
+        System.out.println( "bike is moving");
+    }
+}
